@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/ocr_text/project_3/project_3.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+D:/ocr_text/project_3/project_3.srcs/sim_1/new/decoder_2_4_tb.v,1793629004,verilog,,,,decoder_2_4_tb,,,../../../../../../my_projects_xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/ocr_text/project_3/project_3.srcs/sim_1/new/decoder_3_8_tb.v,1793630251,verilog,,,,decoder_3_8_tb,,,../../../../../../my_projects_xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/ocr_text/project_3/project_3.srcs/sources_1/new/decoder_2_4.v,1793628889,verilog,,D:/ocr_text/project_3/project_3.srcs/sim_1/new/decoder_2_4_tb.v,,decoder_2_4,,,../../../../../../my_projects_xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/ocr_text/project_3/project_3.srcs/sources_1/new/decoder_3_8.v,1793630236,verilog,,D:/ocr_text/project_3/project_3.srcs/sim_1/new/decoder_3_8_tb.v,,decoder_3_8,,,../../../../../../my_projects_xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

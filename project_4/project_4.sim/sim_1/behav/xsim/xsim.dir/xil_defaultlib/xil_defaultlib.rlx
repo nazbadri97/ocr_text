@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/ocr_text/project_4/project_4.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+D:/ocr_text/project_4/project_4.srcs/sim_1/new/full_adder_decode_tb.v,1793640561,verilog,,,,decoder_3_8_tb,,,../../../../../../my_projects_xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/ocr_text/project_4/project_4.srcs/sources_1/new/full_adder_decode.v,1793640482,verilog,,D:/ocr_text/project_4/project_4.srcs/sim_1/new/full_adder_decode_tb.v,,full_adder_decode,,,../../../../../../my_projects_xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
